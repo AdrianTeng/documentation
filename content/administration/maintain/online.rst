@@ -43,6 +43,7 @@ Upgrade the database to the latest Odoo version.
 
 .. seealso::
    - :doc:`../upgrade/process`
+   - :doc:`supported_versions`
 
 .. _online/duplicate:
 
